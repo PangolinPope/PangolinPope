@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @PangolinPope
-- 👀 I’m interested in python
-- 🌱 I’m currently learning
-- 📫 How to reach me: don't, lol
+Yo
 
 <!---
 PangolinPope/PangolinPope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
