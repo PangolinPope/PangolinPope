@@ -1,4 +1,4 @@
-Yo
+Programmer interested in computer science, software development, and cybersecurity.
 
 <!---
 PangolinPope/PangolinPope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
